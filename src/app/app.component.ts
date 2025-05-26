@@ -9,3 +9,10 @@ import { IonApp, IonRouterOutlet } from '@ionic/angular/standalone';
 export class AppComponent {
   constructor() {}
 }
+// @Component({
+//   selector: 'app-root',
+//   standalone: true,
+//   imports: [IonicModule, RouterModule.forRoot(routes)],
+//   template: '<ion-app><router-outlet></router-outlet></ion-app>',
+// })
+// export class AppComponent {}
